@@ -1,0 +1,6 @@
+@Baigiamasis_HostAddress = http://localhost:5195
+
+GET {{Baigiamasis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
